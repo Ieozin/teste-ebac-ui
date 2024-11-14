@@ -1,0 +1,15 @@
+{
+  "name": "teste-ebac-ui",
+  "version": "1.0.0",
+  "description": "Repositório com exemplos de testes de automação de UI utilizando Cypress, criado como parte de um curso de QA. Inclui estrutura de projeto, exemplos práticos de testes, boas práticas e integração com CI/CD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.0"
+  }
+}
